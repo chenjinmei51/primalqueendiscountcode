@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://primalqueendiscountcode.com/sitemap.xml
